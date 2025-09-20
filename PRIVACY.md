@@ -25,7 +25,7 @@ The collected data is used solely to:
 ## 3. Data Retention & Deletion
 
 Data is retained **only as long as necessary** to provide the requested features and maintain service reliability.
-You may request deletion of your data at any time by contacting us at chevy@doe.cool.
+You may request deletion of your data at any time by contacting us at contact@chevy.fit.
 
 ## 4. Third-Party Services
 
@@ -43,4 +43,4 @@ Reasonable measures are taken to protect stored data, but no method of transmiss
 
 ## 6. Contact
 
-For privacy concerns or data deletion requests, contact: chevy@doe.cool
+For privacy concerns or data deletion requests, contact: contact@chevy.fit
